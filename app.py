@@ -18,7 +18,8 @@ st.set_page_config(
 @st.cache_data
 def load_data():
     try:
-        dados_raciais = pd.read_csv('data/CassificacaoRacialRendaSexo.csv', encoding='utf-8')
+        dados_raciais = pd.read_csv('data/CassificacaoRacialRendaSexo_parte1.csv', encoding='utf-8')
+        dados_raciais = pd.read_csv('data/CassificacaoRacialRendaSexo_parte2.csv', encoding='utf-8')
         dados_cargos = pd.read_csv('data/CargosCarreira.csv', encoding='utf-8')
         dados_evasao = pd.read_csv('data/TaxaEvasao.csv', encoding='utf-8')
         dados_rap = pd.read_csv('data/RelacaoAlunoProfessorRAP.csv', encoding='utf-8')
