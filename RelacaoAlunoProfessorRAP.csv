@@ -1,0 +1,450 @@
+Ano;Região;UF;Estado;Organização Acadêmica;Instituicao;Instituição (Nome);RAP | RAP;RAP | Matrículas RAP;RAP | Professor Equivalente
+2023;;;;;UFPI - CTBJ;;;;30
+2023;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;28,7;20592;718
+2023;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;24,68;17559;712
+2023;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;16,68;18956;1137
+2023;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;29,49;17913;608
+2023;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;22,29;24739;1110
+2023;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;22,33;22563;1011
+2023;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;17,97;377;21
+2023;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;21,57;17605;816
+2023;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;18,61;29810;1602
+2023;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;29,37;61243;2085
+2023;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;25,64;44375;1731
+2023;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;3,26;274;84
+2023;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;26,06;34892;1339
+2023;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;18,92;568;30
+2023;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;;1074;
+2023;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;561,5;12072;22
+2023;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;22,23;10405;468
+2023;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;22,37;26454;1183
+2023;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;18,86;1046;56
+2023;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;21,24;29923;1409
+2023;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;;953;
+2023;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;13,31;473;36
+2023;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;16,09;603;38
+2023;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;22,65;34085;1505
+2023;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;44,45;1689;38
+2023;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;11,34;1264;112
+2023;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;2,76;168;61
+2023;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;24,15;12294;509
+2023;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;19,81;6994;353
+2023;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;22,86;21855;956
+2023;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;26,1;7308;280
+2023;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;19,56;27629;1413
+2023;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;9,09;459;51
+2023;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;7,43;757;102
+2023;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;32,57;20631;634
+2023;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;17,47;5215;299
+2023;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;11,72;340;29
+2023;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;26,36;16794;637
+2023;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;24,92;37205;1493
+2023;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;20,51;19231;938
+2023;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;24,36;15703;645
+2023;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;23,3;22880;982
+2023;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;28,84;19093;662
+2023;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;62,2;34830;560
+2023;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;18,97;10869;573
+2023;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;16,98;985;58
+2023;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;12,84;90;7
+2023;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;31,15;763;25
+2023;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;32,23;1273;40
+2023;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;10,24;1229;120
+2023;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;28,54;22820;800
+2023;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;15,25;18716;1228
+2023;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;23,37;23064;987
+2023;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;19,73;20750;1052
+2023;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;10,77;1109;103
+2023;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;22,47;58339;2596
+2023;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;20,5;29618;1445
+2023;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;20,97;14938;713
+2023;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;23,11;25936;1123
+2023;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;27,37;27270;997
+2023;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;21,45;1823;85
+2023;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;26,54;3304;125
+2023;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;23,09;21119;915
+2023;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;25,68;38619;1504
+2022;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;32,71;22813;698
+2022;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;26,52;19226;725
+2022;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;19,05;21253;1116
+2022;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;31,8;18843;593
+2022;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;24,5;26292;1073
+2022;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;22,72;22832;1005
+2022;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;17,01;340;20
+2022;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;21,53;17551;815
+2022;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;20,46;31689;1549
+2022;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;30,44;62026;2038
+2022;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;25,48;44772;1757
+2022;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;3,45;279;81
+2022;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;27,77;35132;1265
+2022;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;22,94;642;28
+2022;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;;1071;
+2022;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;34,42;1394;41
+2022;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;23,25;10870;468
+2022;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;22,82;27167;1191
+2022;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;6,44;357;56
+2022;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;24,13;30964;1283
+2022;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;30,03;901;30
+2022;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;19,94;698;35
+2022;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;16,69;576;35
+2022;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;25,72;39046;1518
+2022;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;38,51;1502;39
+2022;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;11,33;1264;112
+2022;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;6,09;378;62
+2022;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;25,01;12618;505
+2022;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;20,48;7260;355
+2022;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;25,7;23235;904
+2022;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;21,78;6295;289
+2022;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;19,64;27118;1381
+2022;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;8,63;419;49
+2022;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;6,26;658;105
+2022;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;35,14;22645;645
+2022;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;16,04;4837;302
+2022;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;13,91;417;30
+2022;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;27,62;17583;637
+2022;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;23,19;34760;1499
+2022;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;20,43;19271;944
+2022;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;24,45;15977;654
+2022;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;25,28;24778;980
+2022;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;31,81;20551;646
+2022;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;64,74;36126;558
+2022;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;19,67;11416;581
+2022;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;18,57;1077;58
+2022;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;;93;
+2022;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;195,29;781;4
+2022;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;27,77;1069;39
+2022;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;12,04;1445;120
+2022;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;29,56;24060;814
+2022;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;16,62;19272;1160
+2022;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;26;24573;945
+2022;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;19,41;20368;1050
+2022;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;20,1;1186;59
+2022;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;24,84;64564;2599
+2022;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;23,87;32260;1352
+2022;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;21,94;15920;726
+2022;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;26,13;30097;1152
+2022;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;32,76;32125;981
+2022;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;22,44;1907;85
+2022;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;33,91;3815;113
+2022;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;24,74;22194;897
+2022;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;30,57;43721;1430
+2021;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;27,79;19242;693
+2021;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;25,62;18649;728
+2021;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;17,93;19984;1115
+2021;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;27,93;16673;597
+2021;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;24,3;25938;1068
+2021;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;21,83;21944;1005
+2021;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;21,75;392;18
+2021;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;21,36;17305;810
+2021;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;21,05;31436;1494
+2021;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;26,88;52745;1962
+2021;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;22,35;39062;1748
+2021;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;3,39;271;80
+2021;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;34,12;42928;1258
+2021;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;29;754;26
+2021;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;18,92;1003;53
+2021;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;29,31;1143;39
+2021;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;23,04;10793;469
+2021;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;23,01;27546;1197
+2021;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;27,34;1654;61
+2021;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;23,35;29918;1282
+2021;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;29,28;878;30
+2021;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;18,43;636;35
+2021;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;24,15;785;33
+2021;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;26,18;39480;1508
+2021;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;79,08;3163;40
+2021;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;110,44;6571;60
+2021;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;12,58;579;46
+2021;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;24,52;12176;497
+2021;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;20,46;7048;345
+2021;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;20,78;18980;914
+2021;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;20,49;6023;294
+2021;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;18,76;24966;1331
+2021;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;9,89;485;49
+2021;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;60,68;485;8
+2021;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;41,31;25552;619
+2021;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;14,52;4276;295
+2021;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;12,65;354;28
+2021;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;30,73;19407;632
+2021;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;23,29;34847;1496
+2021;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;19,54;18495;947
+2021;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;24,41;15926;653
+2021;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;24,26;24112;994
+2021;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;31,88;20754;651
+2021;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;57,56;32408;563
+2021;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;21,04;12170;579
+2021;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;20,79;998;48
+2021;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;10,97;88;8
+2021;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;26,4;673;26
+2021;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;22,19;877;40
+2021;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;30,26;1392;46
+2021;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;26,01;21696;834
+2021;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;15,29;18228;1193
+2021;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;22,33;20881;935
+2021;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;18,71;19337;1034
+2021;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;17,06;1024;60
+2021;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;23,41;60845;2599
+2021;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;24,09;30747;1277
+2021;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;22,18;16202;731
+2021;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;19,84;22885;1154
+2021;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;58,08;56135;967
+2021;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;28,27;1781;63
+2021;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;39,49;3159;80
+2021;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;22,68;20091;886
+2021;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;28,9;41143;1424
+2020;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;29,3;20379;696
+2020;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;29,67;21392;721
+2020;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;15,92;17938;1127
+2020;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;25,7;15370;598
+2020;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;23,97;25564;1067
+2020;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;23,41;23204;991
+2020;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;11,06;210;19
+2020;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;21,9;17542;801
+2020;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;23,97;35731;1491
+2020;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;26,44;51500;1948
+2020;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;22,62;39316;1738
+2020;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;3,87;306;79
+2020;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;30,16;37966;1259
+2020;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;19,46;526;27
+2020;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;28,39;1476;52
+2020;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;21,57;830;39
+2020;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;25,73;11783;458
+2020;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;23,46;28164;1201
+2020;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;139,72;1118;8
+2020;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;23,05;29580;1284
+2020;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;56,1;1795;32
+2020;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;18,8;611;33
+2020;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;24,28;619;26
+2020;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;26,11;39172;1500
+2020;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;85,31;3242;38
+2020;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;92,69;5701;62
+2020;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;9,35;412;44
+2020;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;23,15;11552;499
+2020;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;21,04;7311;348
+2020;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;22,46;20406;909
+2020;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;24,92;6754;271
+2020;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;19,58;26282;1342
+2020;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;9,61;462;48
+2020;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;12,07;386;32
+2020;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;39,06;23884;612
+2020;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;17,83;4413;248
+2020;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;12,82;320;25
+2020;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;36,53;23143;634
+2020;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;22,65;31762;1403
+2020;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;18,26;17360;951
+2020;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;23,05;14798;642
+2020;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;23,66;23333;986
+2020;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;35,11;22965;654
+2020;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;43,3;24532;567
+2020;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;23,21;13332;575
+2020;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;18,45;904;49
+2020;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;9,45;76;8
+2020;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;21,84;535;25
+2020;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;13,77;502;37
+2020;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;49,09;2504;51
+2020;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;30,52;25396;832
+2020;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;15,56;18311;1177
+2020;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;23,36;22056;944
+2020;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;16,87;17435;1034
+2020;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;14,9;864;58
+2020;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;21,82;56873;2607
+2020;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;24,3;30670;1262
+2020;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;21,95;16166;737
+2020;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;38,21;43922;1150
+2020;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;27,84;27035;971
+2020;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;30,61;1898;62
+2020;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;38,76;2985;77
+2020;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;23,24;20855;898
+2020;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;26,91;38484;1430
+2019;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;26,27;17915;682
+2019;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;28,95;20785;718
+2019;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;17,09;18459;1080
+2019;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;23,54;13510;574
+2019;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;25,29;25952;1026
+2019;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;24,35;22966;943
+2019;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;19,77;356;18
+2019;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;25,78;19771;767
+2019;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;27,11;36567;1349
+2019;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;28,72;54562;1900
+2019;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;25,07;40119;1600
+2019;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;5,9;260;44
+2019;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;32,38;35457;1095
+2019;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;19,44;564;29
+2019;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;20,13;1168;58
+2019;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;22,38;828;37
+2019;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;25,07;10304;411
+2019;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;26,62;29469;1107
+2019;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;23,96;1486;62
+2019;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;23,41;28660;1224
+2019;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;32,42;908;28
+2019;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;19,93;718;36
+2019;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;24,77;818;33
+2019;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;27,43;39834;1452
+2019;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;115,29;3920;34
+2019;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;11,17;1217;109
+2019;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;5,39;323;60
+2019;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;24,04;11083;461
+2019;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;21,39;7102;332
+2019;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;24,14;20614;854
+2019;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;28,04;7486;267
+2019;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;20,52;25425;1239
+2019;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;15,15;606;40
+2019;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;5,97;280;47
+2019;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;31,99;19930;623
+2019;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;18,6;4798;258
+2019;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;12,4;372;30
+2019;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;32,03;19025;594
+2019;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;21,72;31776;1463
+2019;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;20,98;20054;956
+2019;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;24,26;14874;613
+2019;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;23,65;23251;983
+2019;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;33,01;21290;645
+2019;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;40,43;22441;555
+2019;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;21,72;12360;569
+2019;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;16,27;944;58
+2019;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;11,25;90;8
+2019;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;21,77;457;21
+2019;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;16,38;590;36
+2019;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;10,94;1269;116
+2019;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;30,58;24709;808
+2019;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;16,84;18138;1077
+2019;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;27,55;23827;865
+2019;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;19,77;18902;956
+2019;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;18,73;1067;57
+2019;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;22,72;57827;2545
+2019;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;28,01;33301;1189
+2019;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;21,47;15610;727
+2019;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;25,82;28939;1121
+2019;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;24,27;23448;966
+2019;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;19,57;1644;84
+2019;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;26,34;2660;101
+2019;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;22,99;20557;894
+2019;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;28,05;39296;1401
+2018;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;26,58;17638;664
+2018;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;28,74;19344;673
+2018;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;17,56;19636;1119
+2018;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;21,04;11489;546
+2018;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;24,17;25136;1040
+2018;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;22,07;21135;958
+2018;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;16,66;317;19
+2018;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;21,86;17103;783
+2018;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;26,17;38188;1460
+2018;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;29,54;49780;1685
+2018;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;20,68;34203;1654
+2018;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;2,76;221;80
+2018;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;28,18;32277;1146
+2018;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;18,51;518;28
+2018;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;13,21;991;75
+2018;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;22,35;794;36
+2018;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;22,76;9889;435
+2018;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;24,04;28086;1169
+2018;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;63,94;4060;64
+2018;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;23,07;28480;1235
+2018;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;39,44;1301;33
+2018;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;15,18;524;35
+2018;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;26,36;936;36
+2018;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;26,09;38177;1463
+2018;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;33,52;1307;39
+2018;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;10,19;1116;110
+2018;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;6,31;385;61
+2018;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;22,36;11157;499
+2018;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;19,32;6695;347
+2018;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;22,13;20505;927
+2018;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;25,01;7016;281
+2018;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;20,01;25121;1256
+2018;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;14,53;618;43
+2018;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;132,57;398;3
+2018;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;29,29;17958;613
+2018;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;17,36;4912;283
+2018;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;10,72;322;30
+2018;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;27,18;16949;624
+2018;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;23,12;33629;1455
+2018;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;21,58;20400;946
+2018;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;28,54;16765;588
+2018;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;21,88;20028;916
+2018;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;28,32;17731;626
+2018;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;32,01;17192;537
+2018;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;21,11;11907;564
+2018;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;15,97;846;53
+2018;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;12,34;86;7
+2018;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;21,59;540;25
+2018;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;15,06;580;39
+2018;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;11,73;1373;117
+2018;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;26,28;22183;844
+2018;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;15,97;18251;1143
+2018;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;24,08;22336;928
+2018;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;18,06;18851;1044
+2018;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;17,99;1007;56
+2018;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;21,44;54006;2519
+2018;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;23,42;27465;1173
+2018;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;21,03;14492;689
+2018;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;23,88;25303;1060
+2018;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;25,43;24779;975
+2018;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;21,18;1695;80
+2018;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;26,06;2788;107
+2018;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;21,4;19181;897
+2018;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;28,74;39787;1385
+2017;Centro-Oeste;DF;Distrito Federal;"Institutos Federais, Cefet's e Colégio Pedro II";IFB;Instituto Federal de Brasília;30,27;14910;493
+2017;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IF GOIANO;Instituto Federal Goiano;25,95;17101;659
+2017;Centro-Oeste;GO;Goiás;"Institutos Federais, Cefet's e Colégio Pedro II";IFG;Instituto Federal de Goiás;18,41;20297;1103
+2017;Centro-Oeste;MS;Mato Grosso do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFMS;Instituto Federal do Mato Grosso do Sul;20,7;10888;526
+2017;Centro-Oeste;MT;Mato Grosso;"Institutos Federais, Cefet's e Colégio Pedro II";IFMT;Instituto Federal do Mato Grosso;24,57;25354;1032
+2017;Nordeste;AL;Alagoas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAL;Instituto Federal de Alagoas;22,23;20845;938
+2017;Nordeste;AL;Alagoas;Universidades Federais;UFAL - ETA;Universidade Federal de Alagoas;16,55;331;20
+2017;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IF BAIANO;Instituto Federal Baiano;23,28;15352;660
+2017;Nordeste;BA;Bahia;"Institutos Federais, Cefet's e Colégio Pedro II";IFBA;Instituto Federal da Bahia;27,18;36389;1339
+2017;Nordeste;CE;Ceará;"Institutos Federais, Cefet's e Colégio Pedro II";IFCE;Instituto Federal do Ceará;27,2;45906;1688
+2017;Nordeste;MA;Maranhão;"Institutos Federais, Cefet's e Colégio Pedro II";IFMA;Instituto Federal do Maranhão;19,18;31318;1633
+2017;Nordeste;MA;Maranhão;Universidades Federais;UFMA - COLUN;Universidade Federal do Maranhão;2,63;205;78
+2017;Nordeste;PB;Paraíba;"Institutos Federais, Cefet's e Colégio Pedro II";IFPB;Instituto Federal da Paraíba;25,08;28951;1155
+2017;Nordeste;PB;Paraíba;Universidades Federais;UFCG - ETSC;Universidade Federal de Campina Grande;13,37;374;28
+2017;Nordeste;PB;Paraíba;Universidades Federais;UFPB - CAVN;Universidade Federal da Paraíba;12,88;1031;80
+2017;Nordeste;PB;Paraíba;Universidades Federais;UFPB - ETS;Universidade Federal da Paraíba;18,7;664;36
+2017;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IF SERTÃO-PE;Instituto Federal do Sertão Pernambucano;22,97;9969;434
+2017;Nordeste;PE;Pernambuco;"Institutos Federais, Cefet's e Colégio Pedro II";IFPE;Instituto Federal de Pernambuco;26,28;29856;1136
+2017;Nordeste;PE;Pernambuco;Universidades Federais;UFRPE - CODAI;Universidade Federal Rural de Pernambuco;58,51;3131;54
+2017;Nordeste;PI;Piauí;"Institutos Federais, Cefet's e Colégio Pedro II";IFPI;Instituto Federal do Piauí;23,34;26274;1126
+2017;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTBJ;Universidade Federal do Piauí;39,28;1218;31
+2017;Nordeste;PI;Piauí;Universidades Federais;UFPI - CTF;Universidade Federal do Piauí;16,76;578;35
+2017;Nordeste;PI;Piauí;Universidades Federais;UFPI-CAT;Universidade Federal do Piauí;33,83;1302;39
+2017;Nordeste;RN;Rio Grande do Norte;"Institutos Federais, Cefet's e Colégio Pedro II";IFRN;Instituto Federal do Rio Grande do Norte;33,15;45714;1379
+2017;Nordeste;RN;Rio Grande do Norte;Universidades Federais;ESUFRN;Universidade Federal do Rio Grande do Norte;30,53;1191;39
+2017;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - EAJ;Universidade Federal do Rio Grande do Norte;8,89;920;104
+2017;Nordeste;RN;Rio Grande do Norte;Universidades Federais;UFRN - MÚSICA;Universidade Federal do Rio Grande do Norte;5,53;310;56
+2017;Nordeste;SE;Sergipe;"Institutos Federais, Cefet's e Colégio Pedro II";IFS;Instituto Federal de Sergipe;26,81;13229;494
+2017;Norte;AC;Acre;"Institutos Federais, Cefet's e Colégio Pedro II";IFAC;Instituto Federal do Acre;19,76;6549;332
+2017;Norte;AM;Amazonas;"Institutos Federais, Cefet's e Colégio Pedro II";IFAM;Instituto Federal do Amazonas;25,9;24355;941
+2017;Norte;AP;Amapá;"Institutos Federais, Cefet's e Colégio Pedro II";IFAP;Instituto Federal do Amapá;25,71;6285;245
+2017;Norte;PA;Pará;"Institutos Federais, Cefet's e Colégio Pedro II";IFPA;Instituto Federal do Pará;26,06;31175;1197
+2017;Norte;PA;Pará;Universidades Federais;EMUFPA;Universidade Federal do Pará;12,89;593;46
+2017;Norte;PA;Pará;Universidades Federais;ETDUFPA;Universidade Federal do Pará;120,35;361;3
+2017;Norte;RO;Rondônia;"Institutos Federais, Cefet's e Colégio Pedro II";IFRO;Instituto Federal de Rondônia;31,5;17229;547
+2017;Norte;RR;Roraima;"Institutos Federais, Cefet's e Colégio Pedro II";IFRR;Instituto Federal de Roraima;15,51;4483;289
+2017;Norte;RR;Roraima;Universidades Federais;UFRR - EAGRO;Universidade Federal de Roraima;1,99;59;30
+2017;Norte;TO;Tocantins;"Institutos Federais, Cefet's e Colégio Pedro II";IFTO;Instituto Federal do Tocantins;27,9;16812;603
+2017;Sudeste;ES;Espírito Santo;"Institutos Federais, Cefet's e Colégio Pedro II";IFES;Instituto Federal do Espírito Santo;21,45;31099;1450
+2017;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-MG;Centro Federal de Educação Tecnológica de Minas Gerais;23,24;20589;886
+2017;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IF SUDESTE MG;Instituto Federal do Sudeste de Minas Gerais;25,96;14875;573
+2017;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFMG;Instituto Federal de Minas Gerais;20,7;18629;900
+2017;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFNMG;Instituto Federal do Norte de Minas Gerais;25,79;16223;629
+2017;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFSULDEMINAS;Instituto Federal do Sul de Minas Gerais;37;19533;528
+2017;Sudeste;MG;Minas Gerais;"Institutos Federais, Cefet's e Colégio Pedro II";IFTM;Instituto Federal do Triângulo Mineiro;19,18;10624;554
+2017;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - COLTEC;Universidade Federal de Minas Gerais;14,35;789;55
+2017;Sudeste;MG;Minas Gerais;Universidades Federais;UFMG - TU;Universidade Federal de Minas Gerais;15,94;112;7
+2017;Sudeste;MG;Minas Gerais;Universidades Federais;UFTM-CEFORES;Universidade Federal do Triângulo Mineiro;22,63;588;26
+2017;Sudeste;MG;Minas Gerais;Universidades Federais;UFU - ESTES;Universidade Federal de Uberlândia;21,71;814;38
+2017;Sudeste;MG;Minas Gerais;Universidades Federais;UFV - CEDAF;Universidade Federal de Viçosa;12,28;1413;115
+2017;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CEFET-RJ;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;26,83;22580;842
+2017;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";CPII;Colégio Pedro II;16,69;19816;1187
+2017;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFF;Instituto Federal Fluminense;25,39;22979;905
+2017;Sudeste;RJ;Rio de Janeiro;"Institutos Federais, Cefet's e Colégio Pedro II";IFRJ;Instituto Federal do Rio de Janeiro;17,25;17868;1036
+2017;Sudeste;RJ;Rio de Janeiro;Universidades Federais;UFRRJ - CTUR;Universidade Federal Rural do Rio de Janeiro;24,85;1491;60
+2017;Sudeste;SP;São Paulo;"Institutos Federais, Cefet's e Colégio Pedro II";IFSP;Instituto Federal de São Paulo;20,09;49625;2470
+2017;Sul;PR;Paraná;"Institutos Federais, Cefet's e Colégio Pedro II";IFPR;Instituto Federal do Paraná;25,6;28211;1102
+2017;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IF FARROUPILHA;Instituto Federal Farroupilha;20,81;13998;673
+2017;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFRS;Instituto Federal do Rio Grande do Sul;23,48;24405;1040
+2017;Sul;RS;Rio Grande do Sul;"Institutos Federais, Cefet's e Colégio Pedro II";IFSUL;Instituto Federal Sul-rio-grandense;22,22;20500;923
+2017;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - CTISM;Universidade Federal de Santa Maria;36,17;2749;76
+2017;Sul;RS;Rio Grande do Sul;Universidades Federais;UFSM - POLITÉCNICO;Universidade Federal de Santa Maria;25,19;2393;95
+2017;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFC;Instituto Federal Catarinense;20,62;18653;905
+2017;Sul;SC;Santa Catarina;"Institutos Federais, Cefet's e Colégio Pedro II";IFSC;Instituto Federal de Santa Catarina;26,38;36088;1368
